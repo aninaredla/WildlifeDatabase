@@ -16,3 +16,6 @@ I also use intermediate-level SQL querying to extract relevant insights from thi
 8. **Plant**: species_id, plant_group, upright_yn  
 9. **Study**: study_id, study_title, study_desc, start_date, end_date, species_id  
 10. **Researcher**: researcher_id, first_name, last_name, date_of_birth, study_id, supervisor_id  
+
+## Results
+The queries were chosen to showcase database functionalities including aggregations, joins, filtering, and pattern matching to gain meaningful insights from the database. Each query involves specific aspects of species and habitat management, while considering applications such as research and operational planning.
